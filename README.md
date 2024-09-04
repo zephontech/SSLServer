@@ -1,0 +1,5 @@
+This is a simple springboot demo app that requires the client to send their certificate for 2 way authentication.
+all the required certificates needed are in the certs directory. 
+
+The SSLClient side also contains the client certificate and the root and intermediate certs need to be imported 
+into your truststore. cacerts.
