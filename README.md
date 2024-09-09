@@ -4,3 +4,5 @@ spring.testserver.org. the VM was running Lubuntu. Lite Ubuntu.
 
 The SSLClient side also contains the client certificate and the root and intermediate certs need to be imported 
 into your truststore. cacerts.
+
+https://medium.com/geekculture/authentication-using-certificates-7e2cfaacd18b
